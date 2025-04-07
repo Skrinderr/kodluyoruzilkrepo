@@ -27,3 +27,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 MIT
 
+
+Selamlar (https://pbs.twimg.com/media/Dg7M-w3X0AEMsJ5.jpg:large)
