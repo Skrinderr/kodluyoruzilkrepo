@@ -7,9 +7,9 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 Öncelikle projeyi clonelayın. (git clone https://github.com/Skrinderr/kodluyoruzilkrepo.git)
 
-```bash
+```
 git clone https://github.com/Skrinderr/kodluyoruzilkrepo.git
-
+```
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
@@ -18,7 +18,7 @@ Linux için:
 ```bash
 cd KodluyoruzIlkRepo
 code .
-
+```
 # Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
@@ -27,5 +27,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 MIT
 
-
-Selamlar (https://pbs.twimg.com/media/Dg7M-w3X0AEMsJ5.jpg:large)
+![Kodluyoruz Logosu](https://cdn.prod.website-files.com/658d627c8d384d416989b728/6594243f7c3800791f0d0383_Kare%20Favicon.png)
